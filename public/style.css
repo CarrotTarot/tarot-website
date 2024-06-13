@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; }
+#room { position: relative; width: 800px; height: 600px; background-color: #f0f0f0; border: 1px solid #ccc; }
+.character { position: absolute; width: 50px; height: 50px; }
+#tarot-reader { left: 375px; top: 275px; }
+#draw-cards { position: absolute; bottom: 10px; left: 10px; }
+#cards { position: absolute; bottom: 50px; left: 10px; }
+#chat { margin-top: 20px; }
+#chat-box { border: 1px solid #ccc; height: 150px; overflow-y: scroll; padding: 10px; background-color: #fafafa; }
